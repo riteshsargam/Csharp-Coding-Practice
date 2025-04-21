@@ -6,7 +6,7 @@
 		<RootNamespace>Csharp_Coding_Practice</RootNamespace>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
-		<StartupObject>Csharp_Coding_Practice.TestOverloadCons</StartupObject>
+		<StartupObject>Csharp_Coding_Practice.CopyConDemo</StartupObject>
 	</PropertyGroup>
 
 </Project>
