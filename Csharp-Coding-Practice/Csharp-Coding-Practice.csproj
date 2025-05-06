@@ -6,7 +6,7 @@
 		<RootNamespace>Csharp_Coding_Practice</RootNamespace>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
-		<StartupObject>Csharp_Coding_Practice.TryCatchDemo</StartupObject>
+		<StartupObject>Csharp_Coding_Practice.FinallyDemo</StartupObject>
 	</PropertyGroup>
 
 </Project>
