@@ -15,7 +15,6 @@ namespace Csharp_Coding_Practice
         static void Main()
         {
             Test obj = new Test();
-            obj.Method2; Console.ReadLine();
         }
     }
 }
